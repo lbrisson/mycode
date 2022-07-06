@@ -24,7 +24,7 @@ print("You're trapped in arom wiht zombie")
 while True: 
     choice= input("What do you do? \n")
 
-    if(choice.lower() == "run":
+    if choice.lower() == "run":
             print("you've escaped!")
             S.cancel()
             break
