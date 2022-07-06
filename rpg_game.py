@@ -4,7 +4,9 @@ import os
 '''LB's RPG Game'''
 
 inventory = []
-       
+  
+
+
 
 def showInstructions():
     print('''
